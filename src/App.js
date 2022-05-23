@@ -7,7 +7,7 @@ import FormContainer from './components/SignUpComponent'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <Routes>
         <Route path="/" element={
           <div className="">
