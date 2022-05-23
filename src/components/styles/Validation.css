@@ -1,0 +1,28 @@
+label {
+  display: block;
+}
+
+input {
+  display: block;
+  width: 70%;
+  margin: 2% 0;
+  outline: none;
+  border: 1px solid #e2e8ec;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+label[for="agree"] {
+  display: inline;
+  color: darkslategray;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.error__msg {
+  color: red;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=Validation.css.map */

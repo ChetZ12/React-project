@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAC;EACH,KAAK,EAAE,KAAK;EACZ,MAAM,EAAC,KAAK;EACZ,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,OAAO;CACpB;;AAED,AAAA,WAAW,CAAC;EACV,OAAO,EAAE,aAAa;CACvB",
+    "sources": [
+        "BarComponent.scss"
+    ],
+    "names": [],
+    "file": "BarComponent.css"
+}

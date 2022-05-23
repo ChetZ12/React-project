@@ -1,0 +1,91 @@
+.signup-container {
+  width: 50vw;
+  height: 100vh;
+  padding: 5%;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  background: white;
+
+  .create-button {
+    display: block;
+    background-color: #03b3ff;
+    border: none;
+    padding: 12px 10px;
+    width: 30%;
+    border-radius: 3px;
+    margin-top: 20px;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+  }
+}
+
+.page-button {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+
+.titletext {
+  h1 {
+    color: black;
+    margin-bottom: 10%;
+  }
+}
+
+.input-box {
+  font-weight: 550;
+  color: rgb(108, 124, 124);
+.mob {
+    width: 40%;
+  }
+}
+
+
+
+input[type="checkbox"] {
+  display: inline;
+  width: 5%;
+  padding: 5%;
+  outline: 2% solid #aaa;
+  cursor: pointer;
+}
+
+// [type="checkbox"] + label {
+//   position: relative;
+//   padding-left: 30px;
+//   cursor: pointer;
+//   display: inline-block;
+// }
+
+// [type="checkbox"] + label::before {
+//   content: "";
+//   position: absolute;
+//   left: 0;
+//   top: 3px;
+//   width: 16px;
+//   height: 16px;
+//   outline: 1px solid #aaa;
+//   background: #fff;
+//   border-radius: 3px;
+// }
+
+// [type="checkbox"]:checked + label::before {
+//   position: absolute;
+//   left: 0;
+//   top: 3px;
+//   width: 16px;
+//   height: 16px;
+//   outline: 2px solid #03b3ff;
+//   background: #fff;
+//   border-radius: 3px;
+// }
+
+// [type="checkbox"]:checked + label::after {
+//   position: absolute;
+//   left: 0;
+//   top: 3px;
+//   width: 12px;
+//   height: 12px;
+//   margin: 2px;
+// }

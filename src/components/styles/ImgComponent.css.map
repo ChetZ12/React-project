@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACT,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CAcb;;AAhBD,AAKI,UALM,CAIR,MAAM,CACJ,GAAG,CAAC;EACF,UAAU,EAAE,GAAG;EACf,KAAK,EAAE,GAAG;CACX;;AARL,AAWE,UAXQ,CAWR,SAAS,CAAC;EACR,WAAW,EAAC,4BAA4B;EACxC,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,OAAkB;CAC1B",
+    "sources": [
+        "ImgComponent.scss"
+    ],
+    "names": [],
+    "file": "ImgComponent.css"
+}

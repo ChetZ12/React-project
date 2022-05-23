@@ -1,0 +1,16 @@
+.container {
+  width: 50vw;
+  height: 50vh;
+}
+
+.container .bgimg img {
+  margin-top: 10%;
+  width: 85%;
+}
+
+.container .textFont {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #6c7c7c;
+}
+/*# sourceMappingURL=ImgComponent.css.map */

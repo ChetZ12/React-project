@@ -1,0 +1,13 @@
+.chart {
+  width: 100vw;
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  background: #83cfcc;
+}
+
+.bar__chart {
+  padding: 100px 100px 0;
+}
+/*# sourceMappingURL=BarComponent.css.map */

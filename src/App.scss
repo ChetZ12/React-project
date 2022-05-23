@@ -1,0 +1,12 @@
+$bgcolor : #f5f6f7f5;
+
+.App {
+    width: 100%;
+    height: auto;
+    background: $bgcolor;
+  }
+  
+  .mainApp {
+    background: $bgcolor;
+    display: flex;
+  }

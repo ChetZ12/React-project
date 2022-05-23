@@ -1,0 +1,13 @@
+.App {
+  width: 100%;
+  height: auto;
+  background: #f5f6f7f5;
+}
+
+.mainApp {
+  background: #f5f6f7f5;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,50 @@
+.signup-container {
+  width: 50vw;
+  height: 100vh;
+  padding: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  background: white;
+}
+
+.signup-container .create-button {
+  display: block;
+  background-color: #03b3ff;
+  border: none;
+  padding: 12px 10px;
+  width: 30%;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+}
+
+.page-button {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+}
+
+.titletext h1 {
+  color: black;
+  margin-bottom: 10%;
+}
+
+.input-box {
+  font-weight: 550;
+  color: #6c7c7c;
+}
+
+.input-box .mob {
+  width: 40%;
+}
+
+input[type="checkbox"] {
+  display: inline;
+  width: 5%;
+  padding: 5%;
+  outline: 2% solid #aaa;
+  cursor: pointer;
+}
+/*# sourceMappingURL=SignUpComponent.css.map */
