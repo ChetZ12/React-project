@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MyDash-llc/static/css/main.5abad089.css",
+    "main.js": "/MyDash-llc/static/js/main.bdfec342.js",
+    "static/media/mydash-bg.png": "/MyDash-llc/static/media/mydash-bg.c7561b8c4602bd5e8a0c.png",
+    "index.html": "/MyDash-llc/index.html",
+    "main.5abad089.css.map": "/MyDash-llc/static/css/main.5abad089.css.map",
+    "main.bdfec342.js.map": "/MyDash-llc/static/js/main.bdfec342.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5abad089.css",
+    "static/js/main.bdfec342.js"
+  ]
+}
